@@ -37,7 +37,7 @@ def predict_subscribe(age,job,marital,education,default,balance,housing,loan,con
 def main():
 
 	# creating a title
-	st.title("Hackathon")
+	st.title("Dr. Mohamed Mallick")
 	
 	# creating a heading
 	html_tmp = """
