@@ -4,3 +4,4 @@ scikit-learn>=0.22.1
 pandas>=0.19
 joblib
 streamlit
+altair==4.0
